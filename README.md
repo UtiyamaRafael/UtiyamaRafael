@@ -28,5 +28,5 @@ Vamos construir coisas incríveis juntos! 🚀
 
 ---
 
-📄 [Meu Currículo](CurriculoRafaelUtiyama.pdf.pdf)
+📄 [Meu Currículo](CurriculoRafaelUtiyama.pdf)
 
