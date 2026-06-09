@@ -17,9 +17,9 @@
 ## 💻 Tecnologias e Ferramentas
 - Linguagens: Java, JavaScript, Python, C   
 - Banco de Dados: SQL(PostgreSQL / MySQL), NoSQL(MongoDB)  
-- Ferramentas: Git, Linux
-- Engenharia de Software: Programação Orientada a Objetos (POO), Estruturas de Dados, Arquitetura de APIs REST, Princípios SOLID
-- Metodologias & Produtividade: Metodologias Ágeis (Scrum/Kanban)
+- Ambiente de Desenvolvimento & DevOps: Git, GitHub (Versionamento e Pull Requests), Linux (Ambiente CLI/Bash), Docker (Noções/Containers)
+- Engenharia de Software: Programação Orientada a Objetos (POO), Estruturas de Dados, Design de APIs RESTful, Princípios SOLID, Clean Code
+- Metodologias & Produtividade: Metodologias Ágeis (Scrum/Trello)
 
 
 ---
