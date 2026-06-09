@@ -15,9 +15,11 @@
 ---
 
 ## 💻 Tecnologias e Ferramentas
-- Linguagens: Java, JavaScript, Python, C,   
+- Linguagens: Java, JavaScript, Python, C   
 - Banco de Dados: SQL(PostgreSQL / MySQL), NoSQL(MongoDB)  
 - Ferramentas: Git, Linux
+- Engenharia de Software: Programação Orientada a Objetos (POO), Estruturas de Dados, Arquitetura de APIs REST, Princípios SOLID
+- Metodologias & Produtividade: Metodologias Ágeis (Scrum/Kanban)
 
 
 ---
