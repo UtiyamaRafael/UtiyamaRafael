@@ -16,7 +16,7 @@
 
 ## 💻 Tecnologias e Ferramentas
 - Linguagens: Java, JavaScript, Python, C,   
-- Banco de Dados: SQL, MongoDB  
+- Banco de Dados: SQL(PostgreSQL / MySQL), NoSQL(MongoDB)  
 - Ferramentas: Git, Linux
 
 
