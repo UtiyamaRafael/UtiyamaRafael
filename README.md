@@ -2,25 +2,25 @@
 
 # 👋 Olá! Eu sou o Rafael Utiyama
 
-🎓 Estudante de **Ciência da Computação**  
-🚀 Apaixonado por tecnologia, programação e desenvolvimento de software.  
-💡 Sempre buscando aprender novas linguagens e frameworks.
+👨‍💻 Desenvolvedor Backend
+
+🎓 Estudante de Ciência da Computação
+
+---
+
+## 💻 Tecnologias & Ferramentas
+- **Linguagens:** Java | JavaScript | Python | C++
+- **Frameworks & Runtimes:** Node.js | Spring Boot | FastAPI | PyTorch 
+- **Bancos de Dados:** PostgreSQL | MySQL | MongoDB
+- **Arquitetura & Boas Práticas:** APIs RESTful | POO | Estruturas de Dados | Princípios SOLID | Clean Code
+- **DevOps & Infraestrutura:** Git | GitHub | Linux (Bash/CLI) | Docker (Containerização)
+- **Metodologias:** Scrum | Kanban
 
 ---
 
 ## 🌐 Entre em contato
 - Email: rafaelhu763@gmail.com
 - LinkedIn: [rafaelutiyama](https://www.linkedin.com/in/rafaelutiyama/)
-
----
-
-## 💻 Tecnologias e Ferramentas
-- Linguagens: Java, JavaScript, Python, C   
-- Banco de Dados: SQL(PostgreSQL / MySQL), NoSQL(MongoDB)  
-- Ambiente de Desenvolvimento & DevOps: Git, GitHub (Versionamento e Pull Requests), Linux (Ambiente CLI/Bash), Docker (Noções/Containers)
-- Engenharia de Software: Programação Orientada a Objetos (POO), Estruturas de Dados, Design de APIs RESTful, Princípios SOLID, Clean Code
-- Metodologias & Produtividade: Metodologias Ágeis (Scrum/Trello)
-
 
 ---
 
