@@ -10,7 +10,7 @@
 
 ## 💻 Tecnologias & Ferramentas
 - **Linguagens:** Java | JavaScript | Python | C++
-- **Frameworks & Runtimes:** Node.js | Spring Boot | FastAPI | PyTorch 
+- **Frameworks & Runtimes:** Spring Boot | Node.js | FastAPI | PyTorch 
 - **Bancos de Dados:** PostgreSQL | MySQL | MongoDB
 - **Arquitetura & Boas Práticas:** APIs RESTful | POO | Estruturas de Dados | Princípios SOLID | Clean Code
 - **DevOps & Infraestrutura:** Git | GitHub | Linux (Bash/CLI) | Docker (Containerização)
