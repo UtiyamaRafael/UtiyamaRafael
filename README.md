@@ -30,5 +30,6 @@ Vamos construir coisas incríveis juntos! 🚀
 
 ---
 
+💼 [Meu portfólio](rafaelutiyama.vercel.app)
 📄 [Meu Currículo](RAFAEL_UTIYAMA_CURRICULO.pdf)
 
